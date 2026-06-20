@@ -9,7 +9,7 @@
 💡 Interests: Network Security, Ethical Hacking, Web Application Security
 
 📫 Connect with me:
-- 💼 LinkedIn: [- 💼 [LinkedIn](https://www.linkedin.com/in/chandana-savvashe-a1518a310) ]
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandana-savvashe-a1518a310) 
 - 🎯 TryHackMe: [csavvashe](https://tryhackme.com/p/csavvashe)
 - 📦 HackTheBox: [Chandana2007](https://app.hackthebox.com/profile/Chandana2007)
 
